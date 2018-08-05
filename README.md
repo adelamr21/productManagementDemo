@@ -1,2 +1,2 @@
 # productManagementDemo
-This is a demo which is used to show case a demo website for showing some tooling products using AngularJs,Bootstrap 4 and a node server which i manually created.
+This is a demo which is used to show case a demo website for showing some tooling products using AngularJs,Bootstrap 4 and a node server which i manually created.Users can typically download the specified code and then browse the website for exploring the various tooling products and clicking on them to display the tools details.Also users can search for a tool using the search bar.
